@@ -1,0 +1,8 @@
+print(type(5))
+print(type(5.5))
+print(type("S"))
+print(type(None))
+print(type(True))
+print(type(False))
+print(type(type))
+# print(type(S))  
